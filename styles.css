@@ -174,7 +174,7 @@ h2::after {
     margin: 0 auto;
 }
 .story-image {
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
     border-radius: 15px;
     object-fit: cover;
